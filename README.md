@@ -84,7 +84,7 @@ README.md
 * ​GitHub version control
 
   
-  👨‍💻 Developer
+👨‍💻 Developer
 
    Ibrahim
   ​
