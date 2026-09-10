@@ -56,23 +56,21 @@ Fancy uses Firebase Authentication and Firestore Security Rules to ensure that u
  Installation Steps
 
 1. Clone the repository:
-2. 
    bash git clone [https://github.com/eagl520/FANCY-SHOPPING-APP]
    (https://github.com/eagl520/FANCY-SHOPPING-APP)
 
-📂 Project Structure lib/ 
-
-  │  ├─ main.dart 
-   ├── firebase_options.dart 
-   ├── Account/ 
-   ├── Buyer/ 
-   └── Seller/ 
-android/ 
-ios/ 
-web/  
-windows/   
-pubspec.yaml   
-README.md   
+📂 Project Structure lib/              
+  │  ├─ main.dart                     
+   ├── firebase_options.dart          
+   ├── Account/                       
+   ├── Buyer/                         
+   └── Seller/                        
+android/                               
+ios/                                   
+web/                                   
+windows/                               
+pubspec.yaml                           
+README.md                              
 
 🎓 Academic / Portfolio Project 
 
