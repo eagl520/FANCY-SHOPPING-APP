@@ -26,6 +26,7 @@ The app provides a clean dashboard where users can view products, add items to t
 
 * Flutter
 * Dart
+* ImgBB
 * Firebase Authentication
 * Cloud Firestore
 * Material 3
